@@ -1,0 +1,14 @@
+.list {
+  list-style: none;
+  background-color: aqua;
+  width: 10rem;
+  border-radius: 3px;
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.cross {
+  cursor: pointer;
+}
